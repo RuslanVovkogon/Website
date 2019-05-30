@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8d30ac0-22f6-4bd0-9cf3-7c3d2dcf1feb" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="untitled5" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+              <folding>
+                <element signature="e#754#760#0" expanded="true" />
+                <element signature="e#838#844#0" expanded="true" />
+                <element signature="e#922#928#0" expanded="true" />
+                <element signature="n#style#0;n#a#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/new.html" />
+        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/test.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2" />
+    <option name="y" value="35" />
+    <option name="width" value="1269" />
+    <option name="height" value="936" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ruslan\WebstormProjects\untitled5" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="test.js" type="NodeJSConfigurationType" path-to-js-file="test.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8d30ac0-22f6-4bd0-9cf3-7c3d2dcf1feb" name="Default" comment="" />
+      <created>1495738508824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1495738508824</updated>
+      <workItem from="1495738511648" duration="611000" />
+      <workItem from="1503060086972" duration="58000" />
+      <workItem from="1512481382921" duration="209000" />
+      <workItem from="1512993837755" duration="8405000" />
+      <workItem from="1513067294601" duration="20837000" />
+      <workItem from="1513163514943" duration="5929000" />
+      <workItem from="1513242455814" duration="4268000" />
+      <workItem from="1513629888231" duration="614000" />
+      <workItem from="1513684479017" duration="3574000" />
+      <workItem from="1513797962523" duration="3961000" />
+      <workItem from="1513945748753" duration="18264000" />
+      <workItem from="1514197586580" duration="10396000" />
+      <workItem from="1514571341022" duration="680000" />
+      <workItem from="1514923893517" duration="2243000" />
+      <workItem from="1515142913452" duration="6167000" />
+      <workItem from="1515601139184" duration="1438000" />
+      <workItem from="1515605899212" duration="1883000" />
+      <workItem from="1515773097098" duration="7192000" />
+      <workItem from="1515851790322" duration="4728000" />
+      <workItem from="1516043466975" duration="23321000" />
+      <workItem from="1516448922659" duration="8087000" />
+      <workItem from="1516553509516" duration="14480000" />
+      <workItem from="1517132419673" duration="52761000" />
+      <workItem from="1517396446183" duration="23056000" />
+      <workItem from="1517485948355" duration="16980000" />
+      <workItem from="1517579427943" duration="1202000" />
+      <workItem from="1517664864214" duration="16794000" />
+      <workItem from="1517762643812" duration="618000" />
+      <workItem from="1517820539587" duration="5819000" />
+      <workItem from="1517910102660" duration="981000" />
+      <workItem from="1518366075780" duration="74000" />
+      <workItem from="1518366458313" duration="47000" />
+      <workItem from="1518873048008" duration="1852000" />
+      <workItem from="1519470823823" duration="5210000" />
+      <workItem from="1520365284784" duration="1812000" />
+      <workItem from="1521120783035" duration="1461000" />
+      <workItem from="1521288320626" duration="1445000" />
+      <workItem from="1521411952510" duration="1022000" />
+      <workItem from="1523113217394" duration="42000" />
+      <workItem from="1532365366339" duration="1733000" />
+      <workItem from="1536054506834" duration="1029000" />
+      <workItem from="1536066098190" duration="5000" />
+      <workItem from="1536066359817" duration="608000" />
+      <workItem from="1536172253724" duration="2762000" />
+      <workItem from="1536850055309" duration="1144000" />
+      <workItem from="1538933233362" duration="212000" />
+      <workItem from="1556706583538" duration="4220000" />
+      <workItem from="1556824713074" duration="691000" />
+      <workItem from="1559043935350" duration="1036000" />
+      <workItem from="1559045203825" duration="611000" />
+      <workItem from="1559046300175" duration="4934000" />
+      <workItem from="1559229077542" duration="1697000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="299203000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24838188" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32718894" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976552" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Event Log" order="3" side_tool="true" weight="0.3276699" />
+      <window_info anchor="right" id="Favorites" order="4" side_tool="true" weight="0.32928804" />
+      <window_info anchor="right" id="TODO" order="5" side_tool="true" weight="0.32928804" />
+      <window_info anchor="right" id="Terminal" order="6" side_tool="true" weight="0.32928804" />
+      <window_info anchor="right" id="Structure" order="7" weight="0.24919094" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../untitled22/css.a1.css" />
+    <entry file="file://$USER_HOME$/test.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new.html" />
+    <entry file="file://$PROJECT_DIR$/test.html104" />
+    <entry file="file://$USER_HOME$/Desktop/untitled5/test.js" />
+    <entry file="file://$PROJECT_DIR$/../untitled6/test.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <element signature="e#754#760#0" expanded="true" />
+            <element signature="e#838#844#0" expanded="true" />
+            <element signature="e#922#928#0" expanded="true" />
+            <element signature="n#style#0;n#a#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
